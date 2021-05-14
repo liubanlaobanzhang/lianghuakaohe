@@ -10,7 +10,7 @@
 - [白 嫖 365](https://qyi.io/archives/687.html/)
 
 # 下载与使用
-等待编写
+[RELEASES见](https://gitee.com/laobanzhang1/lianghuakaohe/releases/)
 
 # PASSWORD保护
 为保障模板和同学们信息的安全，特意设置了密码。密码是某本练习册上某一道题的答案（放心，不会让你做不出来）
