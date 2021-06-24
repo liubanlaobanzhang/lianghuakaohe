@@ -12,9 +12,8 @@
 # 下载与使用
 [下载地址](https://gitee.com/laobanzhang1/lianghuakaohe/releases/)
 下载之后，直接双击打开。
-- Xltx版本：输入密码后打开
-- Xlsx版本：直接打开
 如果在受保护的的视图打开，请点击“启用编辑”。
 
 # PASSWORD保护
-为保障Xltx和信息安全，设置了密码。密码是某本练习册上某一道题的答案（放心，不会让你做不出来）
+由于某些“特殊的”原因，Password保护取消。
+你可以看到所有的模板/xlsx都标注了“Unlock”。
