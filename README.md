@@ -2,6 +2,7 @@
 这个仓库是用来量化考核模板的
 
 # 下载与使用
+- 这个是老班长实时更新的链接：[进入-OneDrive For Business](https://laobanzhang-my.sharepoint.com/:x:/g/personal/zmh_laobanzhang_onmicrosoft_com/EWyi4oM3jhJPqEB6jDvgCooBefjWwqj3dz60GaH5tVMOOw?e=FxbVfX)
 - [下载地址](https://gitee.com/laobanzhang1/lianghuakaohe/releases/)
 - 下载之后，直接双击打开。
 - 如果在受保护的的视图打开，请点击“启用编辑”。
