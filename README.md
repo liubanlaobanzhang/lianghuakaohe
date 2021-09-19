@@ -2,9 +2,9 @@
 这个仓库是用来量化考核模板的
 
 # 下载与使用
-| 量化考核模板类别 | 版本号         | 下载地址                                                                                                                                             | 支持的版本类型 |
+| 量化考核模板类别 | 版本号         | 操作方式                                                                                                                                             | 支持的版本类型 |
 |----------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------|
-| Beta 版   | 6.2.0-Pre 2 | [下载地址](https://laobanzhang-my.sharepoint.com/:f:/g/personal/zmh_laobanzhang_onmicrosoft_com/EnaQmX1ChYpOiGNIQY-HeR8Bxg5W7ouSKy6JLmPYNBtD3g?e=xFoSHT) | All     |
+| Beta 版   | 6.2.0-Pre 2 | [下载地址](https://laobanzhang-my.sharepoint.com/:f:/g/personal/zmh_laobanzhang_onmicrosoft_com/EnaQmX1ChYpOiGNIQY-HeR8Bxg5W7ouSKy6JLmPYNBtD3g?e=xFoSHT) | [点击查看](http://gitee.com/liubanlaobanzhang/lianghuakaohe/beta.md)     |
 | 正式版      | 6.1.x       | [下载地址](https://gitee.com/liubanlaobanzhang/lianghuakaohe/releases)                                                                                   | All     |
 
 
