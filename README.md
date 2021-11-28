@@ -4,8 +4,7 @@
 # 下载与使用
 | 量化考核模板类别 | 版本号         | 下载地址                                                                                                                                             | 操作指南 |
 |----------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------|
-| 正式版（不建议下载）      | 7.0       | [下载地址](https://)                                                                                   | 待完成     |
-|  **Beta版（建议下载）**       | 7.1.3(DevBeta)       | [下载地址](https://laobanzhang-my.sharepoint.com/:f:/g/personal/zmh_laobanzhang_onmicrosoft_com/EnaQmX1ChYpOiGNIQY-HeR8Bxg5W7ouSKy6JLmPYNBtD3g?e=xFoSHT)                                                                                   | 待完成     |
+|  **Beta版（建议下载）**       | X (Final Version Of 2021)       | [下载地址](https://laobanzhang-my.sharepoint.com/:f:/g/personal/zmh_laobanzhang_onmicrosoft_com/EnaQmX1ChYpOiGNIQY-HeR8Bxg5W7ouSKy6JLmPYNBtD3g?e=xFoSHT)                                                                                   | 待完成     |
 
 # 兼容性
 | 操作系统                              | [Microsoft Office](https://office.com)        | [WPS Office](https://www.wps.cn)                          | 其他产品 |
