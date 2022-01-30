@@ -1,14 +1,10 @@
 # 介绍
 这个仓库是用来量化考核模板的
 
-# 严重警告
-## 由于本人的OneDrive到期，所有的下载链接可能均无法访问。
-## 我们正在考虑如何挽救。
-
 # 下载与使用
 | 量化考核模板类别 | 版本号         | 下载地址                                                                                                                                             | 操作指南 |
 |----------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------|
-|  **Beta版（建议下载）**       | X (Final Version Of 2021)       | [→ 下载地址](https://15zynt-my.sharepoint.com/:f:/g/personal/laobanzhang_15zynt_onmicrosoft_com/Eqb7K8pmgf9LiLpeUFpwJSYBK0PK3BTQcWd0496nTW7dog?e=wJg4K8)                                                                                   | 待完成     |
+|  **Beta版（建议下载）**       | X (Final Version Of 2021)       | [→ 下载地址](https://liubanlaobanzhang-my.sharepoint.com/:f:/g/personal/laobanzhang_liubanlaobanzhang_onmicrosoft_com/EvWdeYFuobRKnz4fFNAP82kB8Q0JzjPjFiOiqZNiLDG7XA?e=fARQcW)                                                                                   | 待完成     |
 
 # 兼容性
 | 操作系统                              | [Microsoft Office](https://office.com)        | [WPS Office](https://www.wps.cn)                          | 其他产品 |
